@@ -105,16 +105,20 @@ pip install -r yolov5/requirements.txt
 ## Repository Structure
 ```
 Neural-Vision/
-|— facial_recognition/
-|   |— facial_recognition.py
-|   |— results/
-|— object_detection/
+|— Facial_recognition/
+|   |— assets
+|   |— cascades
+|   |— smile detector
+|   |— script.py
+|   |— notbook.ipynb
+|— Object_detection/
 |   |— object_detection.py
-|   |— results/
-|— dcgan/
-|   |— GAN.py
-|   |— results/
-|— data/
+|      |— YOLOv5
+|      |— ssd model
+|— GAN Project
+|   |— notebook
+|   |— script
+|— LICENSE
 |— README.md
 ```
 
